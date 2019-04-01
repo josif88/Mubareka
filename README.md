@@ -1,1 +1,2 @@
-# Mubareka Info
+# VocabMate 
+vocabulary memorizing tool
